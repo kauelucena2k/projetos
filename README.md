@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="css/style.css">
 # Projetos, Kauê Lucena
   
   <h1>Página Principal</h1>
