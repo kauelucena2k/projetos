@@ -12,4 +12,6 @@
 <ul>
 <li><a href="https://kauelucena2k.github.io/projetos/racionais/" target="_blank"><abbr title="Racionais MC's">Projeto 1</abbr></a></li>
 <li><a href="https://kauelucena2k.github.io/html-css/desafios/d010/" target="_blank"><abbr title="Android">Projeto 2</abbr></a></li>
+<li><a href="https://kauelucena2k.github.io/html-css/desafios/d012/" target="_blank"><abbr title="Projeto Cordel Moderno">Projeto 3</abbr></a></li>
+
 </ul>
