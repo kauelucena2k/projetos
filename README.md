@@ -15,5 +15,6 @@
 <li><a href="https://kauelucena2k.github.io/html-css/desafios/d012/" target="_blank"><abbr title="Projeto Cordel Moderno">Projeto 3</abbr></a></li>
 <li><a href="https://kauelucena2k.github.io/projetos/poesias/" target="_blank"><abbr title="Sérgio Vaz, usei ele de referenica e o projeto cordel, tbm.">Projeto 4</abbr></a></li>
 <li><a href="https://kauelucena2k.github.io/projeto-login/" target="_blank"><abbr title="Tela do login">Projeto 5</abbr></a></li>
+<li><a href="https://kauelucena2k.github.io/projetos/pokemon/" target="_blank"><abbr title="Criação de uma Pokédex">Projeto 6 </abbr></a></li>
 
 </ul>
