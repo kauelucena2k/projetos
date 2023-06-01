@@ -19,5 +19,4 @@
 <li><a href="https://kauelucena2k.github.io/projeto-social/" target="_blank"><abbr title="Projeto Social, criado em celular">Projeto 7 </abbr></a></li>
 
 
-oi
 </ul>
